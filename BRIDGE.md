@@ -34,3 +34,5 @@ v1 scaffold, content-complete, never git-initialized (files only — see STATUS.
 - Examples contain only fictional data and perfectly obey the card rules.
 - Zero dependencies; docs runnable as written.
 - The negative test (query about an unknown topic → explicit "not in brain") must keep passing after any skill edit.
+
+_Last updated: 2026-07-15 — v1 published to https://github.com/ninaneev/cortex. Business model: repos free/open source; revenue = €149 guided install per system + €1,500 Full Stack Install flagship (sold via ninaneev.github.io, Stripe pending)._

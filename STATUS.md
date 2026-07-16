@@ -22,3 +22,12 @@ All product files written and internally consistent: skill, librarian agent, tem
 4. **Website listing** — add Cortex to the claude-systems lineup with the "answers with receipts" positioning.
 5. **Example expansion** — a second example brain from a different persona (consultant or researcher) to show the pattern generalizes beyond SaaS.
 6. **Feedback loop** — after first external users: does anyone hit the ~100-line card cap in practice? Does batch ingestion dedupe hold up on 50+ documents?
+
+---
+
+## Session handoff 2026-07-15
+
+- Done: repo scaffolded, committed (04a721c), published public to https://github.com/ninaneev/cortex (MIT where applicable)
+
+- Known broken: nothing known; no verification run in a clean session yet
+- Next session: Run docs/INSTALL.md first-ingestion walkthrough as verification (incl. the negative test), then script the demo video.
